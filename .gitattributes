@@ -1,2 +1,6 @@
 models/train3/lastepoch.pth filter=lfs diff=lfs merge=lfs -text
 models/train3/bestepoch.pth filter=lfs diff=lfs merge=lfs -text
+data/s1a-wv1-slc-vv-20161004t015217-20161004t015220-013333-01542f-095.png filter=lfs diff=lfs merge=lfs -text
+data/s1a-wv1-slc-vv-20160103t120707-20160103t120710-009329-00d7c8-011.png filter=lfs diff=lfs merge=lfs -text
+data/s1a-wv1-slc-vv-20160103t120707-20160103t120710-009329-00d7c8-011.npy filter=lfs diff=lfs merge=lfs -text
+data/s1a-wv1-slc-vv-20161004t015217-20161004t015220-013333-01542f-095.npy filter=lfs diff=lfs merge=lfs -text
