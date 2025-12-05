@@ -68,3 +68,8 @@ Important requirements are detailed below. The code was validated using the foll
 Python - 3.11.8
 PyTorch - 2.5.1
 Torchvision - 0.20.1
+
+# Performance 
+![Alt text](models/train3/crossentropyloss.png)
+![Alt text](models/train3/dice.png)
+
